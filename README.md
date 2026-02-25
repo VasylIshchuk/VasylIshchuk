@@ -55,15 +55,4 @@ I build applications that not only look great but also solve problems. I enjoy w
 * **Backend & Data:** `FastAPI`, `Supabase` (Auth & PostgreSQL)
 * **AI Integration:** `Groq API`, `FAISS` Vector Store
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasylIshchuk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-</p>
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasylIshchuk&layout=compact&theme=tokyonight&hide_border=true)
